@@ -1,0 +1,9 @@
+client_secrets.json
+token.json
+*.mp4
+*.mov
+*.log
+__pycache__/
+올릴영상/
+올린영상/
+업로드기록.csv
