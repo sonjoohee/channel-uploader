@@ -1,4 +1,4 @@
-# Juhee Channel Uploader
+#Channel Uploader
 
 A small personal Python tool that uploads short animated videos I make for young children to my own YouTube channel, using the YouTube Data API v3.
 
